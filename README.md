@@ -6,22 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [dp](#dp) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 
 ---
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
 ### implementation
 
