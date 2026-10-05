@@ -6,17 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (4)
+- [math](#math) (1)
+- [strings](#strings) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 
 ### dp
 
@@ -35,7 +45,22 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 
 ---
 
