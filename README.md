@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 7 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
@@ -27,6 +27,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.java) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.java) |
 
 ### constructive algorithms
 
