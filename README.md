@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 10 | 7 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (5)
-- [math](#math) (1)
+- [implementation](#implementation) (7)
+- [math](#math) (2)
 - [strings](#strings) (1)
 
 ---
@@ -56,7 +56,9 @@
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.java) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 
 ### math
@@ -64,6 +66,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 
 ### strings
 
