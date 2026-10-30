@@ -6,18 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 12 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (7)
-- [math](#math) (2)
+- [math](#math) (3)
 - [strings](#strings) (1)
 
 ---
@@ -28,6 +29,12 @@
 |---|---------|------------|----------|
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.java) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/268/A%20-%20Games/solution.java) |
 
 ### constructive algorithms
 
@@ -66,6 +73,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.java) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/AngelMalaiya22/CodeForce-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 
 ### strings
